@@ -106,3 +106,4 @@ jobs:
 
       - name: 🧪 Run Playwright tests
         uses: ./.github/actions/end-to-end-tests
+
